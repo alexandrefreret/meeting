@@ -1,0 +1,26 @@
+
+// Typography
+$font-family-sans-serif: "Quicksand", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+
+$gris: #A78D7C;
+$gris_dark: #856550;
+
+$green: #50cc80;
+
+$purple: #dc1959;
+$purple_dark: #b01447;
+
+$bleu: #31b3c6;
+$bleu_dark: #268B9A;
+
+$jaune: #FF9801;
+$jaune_dark: #DD8000;
+
+$theme-colors: (
+	"danger": $purple,
+	"success": $green,
+	"info": $bleu
+);
